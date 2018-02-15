@@ -1,0 +1,16 @@
+h1{
+    position: absolute;
+    font-size: 140px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+body{
+    background-color: #333;
+}
+h2{
+    font-size: 110px;
+}
+link {
+    display: none;
+}
