@@ -1,0 +1,20 @@
+{
+  "name": "1day",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slippy02/1day.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Slippy02/1day/issues"
+  },
+  "homepage": "https://github.com/Slippy02/1day#readme"
+}
